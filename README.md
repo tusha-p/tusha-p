@@ -1,48 +1,42 @@
-# Tusha Pavuluri  
-**CSV & Software Verification Engineer | FDA 21 CFR Part 11 | GAMP 5 | Medical Technology**
+# 👋 Hi, I'm Tusha Pavuluri  
 
-### About Me  
-QA and Validation Leader with 15+ years of experience specializing in **regulated software systems** for healthcare, pharmaceuticals, and medical technology. I focus on **risk-based validation, audit-ready compliance, and test automation** aligned with FDA 21 CFR Part 11, GAMP 5, ISO 13485, and HIPAA.
+**GenAI / LLM QA | Functional, API & Test Management | CSV & Compliance (21 CFR Part 11, GxP, HIPAA)**  
 
-I build and execute end-to-end validation strategies—from **Validation Plans (VP)** to **IQ/OQ/PQ protocols** and **Validation Summary Reports (VSR)**—ensuring software safety, integrity, and regulatory readiness.
-
----
-
-### 🧪 Featured Validation Portfolio
-
-#### [🔗 GxP Clinical Data System Validation](https://github.com/tusha-p/csv-portfolio-econsent-esignature)  
-Full end-to-end validation package for a mock GxP clinical trial data capture system.
-- **Deliverables:** Validation Plan, URS/FRS, Risk Assessment, Traceability Matrix (RTM), IQ/OQ/PQ Protocols, VSR
-- **Automation:** Selenium-based checks for audit trails, e-signatures, and RBAC compliance
-- **Standards:** FDA 21 CFR Part 11, GAMP 5
-
-#### [🔗 Automated PDF Compliance Validator](https://github.com/tusha-p/)  
-Custom tool to automate compliance validation for electronic records (e.g., batch records, lab reports).
-- **Checks:** Metadata, digital signatures, audit trail integrity, ALCOA+ compliance
-- **Tech:** Java, PDFBox, Selenium
-- **Use Case:** Replaces error-prone manual reviews with automated, repeatable checks
-
-#### [🔗 eConsent / eSignature Validation](https://github.com/tusha-p/)  
-End-to-end validation package for an electronic consent capture system compliant with FDA 21 CFR Part 11.
-- **Coverage:** Risk assessment, URS, RTM, IQ/OQ/PQ, summary reporting with CAPA/deviations
-- **Automation:** Audit trail and RBAC validation via Selenium and PDFBox
+🚀 I’m a **QA Lead & Engineer (15+ yrs)** specializing in **GenAI / LLM QA, Quality Engineering, and Computer System Validation (CSV)**.  
+My work bridges **cutting-edge AI testing** with **core QA practices** and **regulated compliance validation**.  
 
 ---
 
-### 🛠️ Core Competencies
-
-- **Regulatory Standards:** FDA 21 CFR Part 11, GAMP 5, ISO 13485, HIPAA, GxP, IEC 62304
-- **Validation Lifecycle:** VP, URS/FRS, RA, RTM, IQ/OQ/PQ, VSR, CAPA, Change Control
-- **Testing:** Manual, Regression, Integration, System, UAT, Risk-Based Testing
-- **Test Automation:** Selenium (Java), Postman/Newman, REST/API Testing, Jenkins, GitHub Actions
-- **Tools:** Jira, TestRail, Zephyr, Git
-- ** Platforms:** Azure, GCP (Learning in progress)
+## 🔹 Core Competencies
+- **QA & Releases:** Release management, production validation, smoke/sanity, system & integration testing, functional & regression QA  
+- **API & Automation:** REST/GraphQL API testing (Postman/Newman), contract testing (OpenAPI), Selenium WebDriver (Java), automated regression packs, CI/CD (GitHub Actions, Jenkins)  
+- **Test Management:** Requirements traceability, test planning/estimation, defect & root cause management, test data/environment setup, UAT support  
+- **QA Leadership:** Strategy & quality gates, mentoring, cross-team alignment with Product/Dev/Regulatory, scaling QA processes & metrics  
+- **CSV Lifecycle:** Validation Plan (VP), URS/FRS, Risk Assessment, RTM, IQ/OQ/PQ, Validation Summary Reports (VSR)  
+- **Compliance:** 21 CFR Part 11, GxP, GAMP 5, HIPAA — audit trails, RBAC, deviations/CAPA, change control  
+- **Emerging Tech:** GenAI / LLM QA — chatbot & prompt testing, evaluation frameworks, hallucination/safety guardrails, RAG validation  
 
 ---
 
-### 📫 Let's Connect
+## 📂 Featured Portfolios
+- **[eConsent / eSignature Validation](https://github.com/tusha-p/csv-portfolio-econsent-esignature)**  
+  End-to-end validation package for an FDA Part 11 compliant eConsent system  
+  *Risk-based validation, URS/FRS, RTM, IQ/OQ/PQ, VSR, CAPA | Automation with Selenium, Postman, PDFBox*  
 
-- **LinkedIn:** [linkedin.com/in/tushapavuluri](https://www.linkedin.com/in/tushapavuluri/)
-- **Email:** tusha.pavuluri@gmail.com
+- **[GxP Clinical Data System Validation](https://github.com/tusha-p/csv-portfolio-gxp-clinical-validation)**  
+  Full validation lifecycle for a mock clinical trial data system  
+  *Validation Plan, Risk Assessment, RTM, IQ/OQ/PQ, VSR | Selenium-based audit trail, e-signature, RBAC checks*  
 
-*Open to roles in: Software Verification, CSV, QA Validation, and Compliance Engineering within Medical Technology and Healthcare IT.*
+- **[Automated PDF Compliance Validator](https://github.com/tusha-p/csv-portfolio-pdf-validator)**  
+  Tool to automate compliance checks for electronic records  
+  *Validates metadata, digital signatures, audit trail integrity, ALCOA+ | Built with Java, Selenium, PDFBox*  
+
+---
+
+## 🔗 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/tushapavuluri/)  
+- 📂 [GitHub Projects](https://github.com/tusha-p)  
+
+---
+✨ *Blending hands-on QA, automation, and compliance with next-gen GenAI / LLM testing.*
+
